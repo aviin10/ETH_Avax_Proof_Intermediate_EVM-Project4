@@ -58,3 +58,6 @@ contract DegenToken is ERC20, Ownable, ERC20Burnable {
     }
 }
 
+// Address 1: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+// Address 2: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
+
