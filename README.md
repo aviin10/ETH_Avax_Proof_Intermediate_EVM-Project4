@@ -22,5 +22,20 @@ Create a ERC20 token and deploy it on the Avalanche network for Degen Gaming.
 * Solidity
 
 
+### Prerequisites
+
+* Remix IDE: A web-based integrated development environment for Ethereum smart contracts (https://remix.ethereum.org) to access the IDE.
+* MetaMask: A browser extension wallet for interacting with Ethereum-based applications.
+
+
+### Deployment on Remix IDE
+* Open the remix ide in your web browser.
+* Create a new file in Remix IDE.
+* Compile the contract by selecting the appropriate Solidity compiler version in Remix IDE and clicking the "Compile" button.
+* Connect MetaMask to Remix IDE by clicking on the MetaMask extension icon in your browser and following the instructions to log in.
+* Deploy the contract by clicking the "Deploy & Run Transactions" tab in Remix IDE.
+* Click the "Deploy" button to deploy the contract to the selected testnet.
+* Confirm the transaction in MetaMask and wait for the contract to be deployed. Once deployed, you will see the contract address in the Remix IDE.
+
 
 
